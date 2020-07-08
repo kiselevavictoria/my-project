@@ -1,0 +1,13 @@
+G:\инфаС#\Diffi-Helman\Diffi-Helman\bin\Debug\netcoreapp3.1\Diffi-Helman.exe
+G:\инфаС#\Diffi-Helman\Diffi-Helman\bin\Debug\netcoreapp3.1\Diffi-Helman.deps.json
+G:\инфаС#\Diffi-Helman\Diffi-Helman\bin\Debug\netcoreapp3.1\Diffi-Helman.runtimeconfig.json
+G:\инфаС#\Diffi-Helman\Diffi-Helman\bin\Debug\netcoreapp3.1\Diffi-Helman.runtimeconfig.dev.json
+G:\инфаС#\Diffi-Helman\Diffi-Helman\bin\Debug\netcoreapp3.1\Diffi-Helman.dll
+G:\инфаС#\Diffi-Helman\Diffi-Helman\bin\Debug\netcoreapp3.1\Diffi-Helman.pdb
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.csprojAssemblyReference.cache
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.csproj.CoreCompileInputs.cache
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.AssemblyInfoInputs.cache
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.AssemblyInfo.cs
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.dll
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.pdb
+G:\инфаС#\Diffi-Helman\Diffi-Helman\obj\Debug\netcoreapp3.1\Diffi-Helman.genruntimeconfig.cache
